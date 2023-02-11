@@ -1,7 +1,4 @@
-Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Python&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgelines&show_icons=true&theme=dark)
