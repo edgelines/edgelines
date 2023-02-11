@@ -1,7 +1,7 @@
 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
 
