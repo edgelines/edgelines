@@ -1,10 +1,10 @@
 
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgelines&show_icons=true&theme=dark)  
-</div>
-<div>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgelines&layout=compact&theme=dark)  
-</div>
+
 
 <div align=center><h1>📚 Stacks</h1></div>
 
