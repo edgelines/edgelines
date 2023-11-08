@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgelines&layout=compact&theme=dark)  
 
 
-<div align=center><h1>📚 Stacks</h1></div>
+<div align=left><h1>📚 Stacks</h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white">
